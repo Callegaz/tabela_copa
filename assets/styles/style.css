@@ -1,0 +1,124 @@
+body {
+  background-image: url("https://images.vexels.com/media/users/3/145220/preview2/d46f6c3c236102eaf3f921455ca642f8-fundo-da-copa-do-mundo-da-russia.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1,
+h2 {
+  color: red;
+  text-transform: uppercase;
+}
+hr {
+  width: 50%;
+}
+
+table {
+  font-family: Arial;
+  background: whitesmoke;
+  border-radius: 4%;
+  box-shadow: 10px 10px 67px -33px rgba(0, 0, 0, 0.75);
+  margin-bottom: 50px;
+}
+
+th {
+  padding: 15px;
+}
+
+td {
+  padding: 5px;
+  text-align: justify;
+  border-bottom: 1px black solid;
+}
+
+li {
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+td,
+th {
+  color: black;
+}
+.chave {
+  border-bottom: none;
+  background: rgb(224, 46, 46);
+  font-weight: bold;
+  color: #fff;
+}
+.hora {
+  color: blue;
+}
+.pais {
+  font-weight: bold;
+}
+.noBorder {
+  border-bottom: none;
+}
+#russia {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ru-icon.png");
+}
+#egito {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-eg-icon.png");
+}
+
+#uruguai {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-uy-icon.png");
+}
+
+#arabia {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-sa-icon.png");
+}
+
+#portugal {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-pt-icon.png");
+}
+
+#Espanha {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-es-icon.png");
+}
+
+#Marrocos {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ma-icon.png");
+}
+
+#ira {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ir-icon.png");
+}
+#fra {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-fr-icon.png");
+}
+#Australia {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-au-icon.png");
+}
+#cro {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-hr-icon.png");
+}
+#nig {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ng-icon.png");
+}
+#arg {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ar-icon.png");
+}
+#isl {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-is-icon.png");
+}
+#per {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-pe-icon.png");
+}
+#din {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-dk-icon.png");
+}
+#ger {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-de-icon.png");
+}
+#mex {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-mx-icon.png");
+}
+#sw {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-se-icon.png");
+}
+#cs {
+    list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-kr-icon.png");
+  }
