@@ -20,6 +20,8 @@ table {
   border-radius: 4%;
   box-shadow: 10px 10px 67px -33px rgba(0, 0, 0, 0.75);
   margin-bottom: 50px;
+  width: 55%;
+  min-width: 650px;
 }
 
 th {
@@ -120,5 +122,41 @@ th {
   list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-se-icon.png");
 }
 #cs {
-    list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-kr-icon.png");
-  }
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-kr-icon.png");
+}
+#br {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-br-icon.png");
+}
+#sc {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-ch-icon.png");
+}
+#cr {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-cr-icon.png");
+}
+#sr {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-rs-icon.png");
+}
+#bg {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-be-icon.png");
+}
+#pn {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-pa-icon.png");
+}
+#tn {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-tn-icon.png");
+}
+#in {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-gb-icon.png");
+}
+#pl {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-pl-icon.png");
+}
+#sn {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-sn-icon.png");
+}
+#cl {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-co-icon.png");
+}
+#jp {
+  list-style-image: url("http://icons.iconarchive.com/icons/osiris/world-flags/16/00-cctld-jp-icon.png");
+}
